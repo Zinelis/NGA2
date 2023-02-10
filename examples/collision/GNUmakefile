@@ -1,5 +1,8 @@
 # NGA location if not yet defined
-NGA_HOME ?= ../..
+NGA_HOME ?= ~/Repositories/NGA2/
+
+HYPRE_DIR = /Users/kz3917/Builds/hypre
+IRL_DIR = /Users/kz3917/Builds/irl
 
 # Compilation parameters
 PRECISION = DOUBLE
